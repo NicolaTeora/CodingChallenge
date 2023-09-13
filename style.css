@@ -1,0 +1,59 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 100%;
+}
+
+.contenitore{
+  background-color: rgba(0,0,0,0.5);
+  width: 70%;
+  margin: auto;
+  padding: 5%;
+  border-radius: 5%;
+}
+
+.test{
+  color: #1ee51e;
+  text-align: center;
+}
+
+#size-logo{
+  width: 20%;
+}
+
+nav{
+  background-color: #1ee51e;
+  padding: 1%;
+  text-align: center;
+}
+
+.scooter{
+  color: white;
+}
+
+h2{
+  display: inline-block;
+  margin-bottom: 0px;
+}
+.posizione, .energy{
+  display: block;
+}
+
+.medium{
+  background-color: orange;
+  width: 50%;
+}
+
+.full{
+  background-color: #1ee51e ;
+  width: 80%;
+}
+
+.empty{
+  background-color: red;
+  width: 30%;
+}
+
+.medium, .full, .empty{
+  padding: 1%;
+  border-radius: 2px;
+}
